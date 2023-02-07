@@ -1,5 +1,5 @@
 {
-  "name": "chartJs-adaptive",
+  "name": "chartJsAdaptive",
   "version": "1.0.0",
   "description": "sleep function for JavaScript",
   "main": "sleep.js",
@@ -8,11 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MedoffSergei/sleepjs.git"
+    "url": "git+https://github.com/MedoffSergei/chartJsAdaptive.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-
-  "homepage": "https://github.com/MedoffSergei/sleepjs#readme"
+  "publishConfig": {
+    "registry": "https://github.com/MedoffSergei/"
+  },
+  "homepage": "https://github.com/MedoffSergei/chartJsAdaptive#readme"
 }
